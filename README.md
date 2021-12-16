@@ -46,5 +46,6 @@ Contact Me
 <a href="mailto:cassie.seckman@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="cassandra-seckman.com">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&)</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSeckman&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
