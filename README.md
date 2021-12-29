@@ -44,7 +44,7 @@ Contact Me
 
 <a href="https://www.linkedin.com/in/cassandra-seckman/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:cassie.seckman@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="cassandra-seckman.com">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&)</a>
+<a href="https://portfolio-cseckman.vercel.app/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&)</a>
 
 ![Cassandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSeckman&show_icons=true&theme=tokyonight)
 
